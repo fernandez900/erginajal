@@ -1,1 +1,147 @@
-
+{
+  "Ads": [
+    {
+      "on_off_open": "0",
+      "select_ads_interstitial": "ADMOBx",
+      "select_ads_banner": "ADMOBx",
+      "select_ads_native": "ADMOBx",
+      "status_app": "0",
+      "link_redirect": "",
+      "admob_interid": "ca-app-pub-7036757467253823/9046383879",
+      "admob_open": "ca-app-pub-7036757467253823/9709810423",
+      "admob_nativeid": "ca-app-pub-7036757467253823/2708491647",
+      "admob_banner": "ca-app-pub-7036757467253823/1120873965",
+      "interval_intertitial": "3",
+      "unityID": "4573644xx",
+      "unity_inter": "Interstitial_Android",
+      "unity_banner": "",
+      "applovin_native": "486e56699ea4ad6a",
+      "applovin_banner": "97d3b3028ec77010",
+      "applovin_inter": "0ad6b798659dd1ea",
+      "applovin_zone": "9f20993c3483565b",
+      "select_exit": "2",
+      "on_off_category": "3",
+      "on_off_more_app": "2",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1001,
+      "name_category": "Nature",
+      "title": "Wallpaper_offline _01",
+      "image": "file:///android_asset/image/wallpaper_01.jpg"
+    },
+    {
+      "id": 1002,
+      "name_category": "Nature",
+      "title": "Wallpaper_offline _02",
+      "image": "file:///android_asset/image/wallpaper_02.jpg"
+    },
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "title": "Wallpaper_01",
+      "image": "https://i.pinimg.com/474x/ef/e5/1a/efe51ae20fe04abbb7e3a470e768f795.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Nature",
+      "title": "Wallpaper_02",
+      "image": "https://i.pinimg.com/474x/53/73/38/5373388f153a8eeb6d7f044e4b4a03c5.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Nature",
+      "title": "Wallpaper_03",
+      "image": "https://i.pinimg.com/474x/fe/12/fb/fe12fb2a80e5c44995d3ba7fa92b7fe4.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Nature",
+      "title": "Wallpaper_04",
+      "image": "https://i.pinimg.com/474x/f9/a9/bc/f9a9bc17e800c3e73f104eea3d69b901.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Nature",
+      "title": "Wallpaper_05",
+      "image": "https://i.pinimg.com/236x/fa/73/c5/fa73c57c823a2c192af1198b2181e25d.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Nature",
+      "title": "Wallpaper_06",
+      "image": "https://i.pinimg.com/236x/ce/05/bf/ce05bff83c690387685f766d3bc17515.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Nature",
+      "title": "Wallpaper_07",
+      "image": "https://i.pinimg.com/474x/fa/93/c6/fa93c6ae6ab29b76bd4b45109e809346.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "title": "Wallpaper_08",
+      "image": "https://i.pinimg.com/474x/df/fe/e1/dffee121014c680d248ded5aa01b3d8d.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Nature",
+      "title": "Wallpaper_09",
+      "image": "https://i.pinimg.com/474x/ac/b2/26/acb2262748539a006148ca748df36e48.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Nature",
+      "title": "Wallpaper_10",
+      "image": "https://i.pinimg.com/474x/e6/95/de/e695de2d0fd880132407ad57071c4ac7.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Nature",
+      "title": "Wallpaper_11",
+      "image": "https://i.pinimg.com/474x/4f/dd/54/4fdd541d2ddbdf804c7c08b15baf8341.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Nature",
+      "title": "Wallpaper_12",
+      "image": https://i.pinimg.com/236x/20/6d/69/206d69ff9ecf14f1ab1c76f16fe4d6f3.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Nature",
+      "title": "Wallpaper_13",
+      "image": "https://i.pinimg.com/236x/b7/e0/e9/b7e0e91006814b76af05a517316e8340.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Nature",
+      "title": "Wallpaper_14",
+      "image": "https://i.pinimg.com/474x/10/04/9f/10049fdce5312485393b7da82dd4f1d0.jpg"
+    }
+  ]
+}
