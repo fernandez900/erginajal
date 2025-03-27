@@ -48,208 +48,148 @@
   ],
   "Data": [
     {
-      "id": 1001,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _01",
-      "image": "file:///android_asset/image/wallpaper_01.jpg"
-    },
-    {
-      "id": 1002,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _02",
-      "image": "file:///android_asset/image/wallpaper_02.jpg"
-    },
-    {
-      "id": 1003,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _03",
-      "image": "file:///android_asset/image/wallpaper_03.jpg"
-    },
-    {
-      "id": 1004,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _04",
-      "image": "file:///android_asset/image/wallpaper_04.jpg"
-    },
-    {
-      "id": 1005,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _05",
-      "image": "file:///android_asset/image/wallpaper_05.jpg"
-    },
-    {
-      "id": 1006,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _06",
-      "image": "file:///android_asset/image/wallpaper_06.jpg"
-    },
-    {
-      "id": 1007,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _07",
-      "image": "file:///android_asset/image/wallpaper_07.jpg"
-    },
-    {
-      "id": 1008,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _08",
-      "image": "file:///android_asset/image/wallpaper_08.jpg"
-    },
-    {
-      "id": 1009,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _09",
-      "image": "file:///android_asset/image/wallpaper_09.jpg"
-    },
-    {
-      "id": 1010,
-      "name_category": "Nature",
-      "title": "Wallpaper_offline _10",
-      "image": "file:///android_asset/image/wallpaper_10.jpg"
-    },
-    {
       "id": 1,
       "name_category": "Nature",
       "title": "Wallpaper_01",
-      "image": "https://i.pinimg.com/236x/17/be/6a/17be6a9a337f482b29de251652967b3a.jpg"
+      "image": "https://i.pinimg.com/236x/dc/c0/28/dcc0288bcf63b4767d820973bfd31bb2.jpg"
     },
     {
       "id": 2,
       "name_category": "Nature",
       "title": "Wallpaper_02",
-      "image": "https://i.pinimg.com/474x/29/12/0c/29120cb3ab5f14f392dd6cedd2c50e55.jpg"
+      "image": "https://i.pinimg.com/236x/50/f1/06/50f106765d8168f1ffdfd8cf0ff323f6.jpg"
     },
     {
       "id": 3,
       "name_category": "Nature",
       "title": "Wallpaper_03",
-      "image": "https://i.pinimg.com/236x/ed/bd/47/edbd47eaf810e831743b66f948d000d1.jpg"
+      "image": "https://i.pinimg.com/236x/8b/0c/8f/8b0c8f1d570b19bc4330d85b155b9031.jpg"
     },
     {
       "id": 4,
       "name_category": "Nature",
       "title": "Wallpaper_04",
-      "image": "https://i.pinimg.com/474x/fe/5e/cd/fe5ecd8fc81288b35b505bcb4b7b732b.jpg"
+      "image": "https://i.pinimg.com/236x/e2/47/e4/e247e4e299079f0921ff6589fa1291ad.jpg"
     },
     {
       "id": 5,
       "name_category": "Nature",
       "title": "Wallpaper_05",
-      "image": "https://i.pinimg.com/236x/0d/7f/c3/0d7fc3594f06469dc0dd705422b42c9b.jpg"
+      "image": "https://i.pinimg.com/236x/0b/12/9b/0b129b8041e3dda0ceade411de6a59b9.jpg"
     },
     {
       "id": 6,
       "name_category": "Nature",
       "title": "Wallpaper_06",
-      "image": "https://i.pinimg.com/236x/2c/73/1c/2c731cd367641d8620d3acf34e2eab96.jpg"
+      "image": "https://i.pinimg.com/236x/b0/b4/d3/b0b4d3abdadf79e32b9ba3dec2f71b76.jpg"
     },
     {
       "id": 7,
       "name_category": "Nature",
       "title": "Wallpaper_07",
-      "image": "https://i.pinimg.com/236x/d3/e0/15/d3e0159dd33404920f54a2dd8d451e00.jpg"
+      "image": "https://i.pinimg.com/236x/18/58/a3/1858a360122ba816a612293befd03508.jpg"
     },
     {
       "id": 8,
       "name_category": "Nature",
       "title": "Wallpaper_08",
-      "image": "https://i.pinimg.com/236x/dc/e5/33/dce53327d8d4f38c268eed0d62c58546.jpg"
+      "image": "https://i.pinimg.com/474x/f8/91/4c/f8914c010b0416d1d73df9955f1f3a49.jpg"
     },
     {
       "id": 9,
       "name_category": "Nature",
       "title": "Wallpaper_09",
-      "image": "https://i.pinimg.com/236x/29/ed/29/29ed29283df160cc7c5847ae7278ba94.jpg"
+      "image": "https://i.pinimg.com/236x/20/22/51/202251320025c50a9ccf1529d0a36f5e.jpg"
     },
     {
       "id": 10,
       "name_category": "Nature",
       "title": "Wallpaper_10",
-      "image": "https://i.pinimg.com/236x/fb/5f/39/fb5f3967c8d9d57cd01e7ad74d3c4530.jpg"
+      "image": "https://i.pinimg.com/474x/4b/5a/87/4b5a875a7c540329aa0e90fdcbdb6c2d.jpg"
     },
     {
       "id": 11,
       "name_category": "Nature",
       "title": "Wallpaper_11",
-      "image": "https://i.pinimg.com/236x/59/99/18/599918e272f684073d220bb3926f0c01.jpg"
+      "image": "https://i.pinimg.com/236x/a8/82/03/a882035526bc3fbd00603f8475569bc6.jpg"
     },
     {
       "id": 12,
       "name_category": "Nature",
       "title": "Wallpaper_12",
-      "image": "https://i.pinimg.com/474x/55/d0/58/55d0580a48bd61d99978c08eab056e1b.jpg"
+      "image": "https://i.pinimg.com/474x/24/cd/3c/24cd3ca4defb6d985e9b07727d6a93cb.jpg"
     },
     {
       "id": 13,
       "name_category": "Nature",
       "title": "Wallpaper_13",
-      "image": "https://i.pinimg.com/474x/0b/18/61/0b1861289719cb5e4427818d5c169e07.jpg"
+      "image": "https://i.pinimg.com/474x/32/fb/ea/32fbead1b9327d3c8bf812907eb7658e.jpg"
     },
     {
       "id": 14,
       "name_category": "Nature",
       "title": "Wallpaper_14",
-      "image": "https://i.pinimg.com/236x/07/25/fd/0725fdb88d9ba435f3873bd234d3dde0.jpg"
+      "image": "https://i.pinimg.com/474x/b4/36/23/b43623b691ab03d984c594477aa00c70.jpg"
     },
     {
       "id": 15,
       "name_category": "Nature",
       "title": "Wallpaper_15",
-      "image": "https://i.pinimg.com/236x/66/23/83/662383579bdf91d7c2c6d57fe84fc49a.jpg"
+      "image": "https://i.pinimg.com/236x/e4/e2/b1/e4e2b160a2b99b8f70e14512a0da2b87.jpg"
     },
     {
       "id": 16,
       "name_category": "Nature",
       "title": "Wallpaper_16",
-      "image": "https://i.pinimg.com/236x/83/a3/79/83a379fcb3061a0ca3dc25ce06d306cf.jpg"
+      "image": "https://i.pinimg.com/474x/de/bb/5b/debb5be869e8549e89d4c85073323ba3.jpg"
     },
     {
       "id": 17,
       "name_category": "Nature",
       "title": "Wallpaper_17",
-      "image": "https://i.pinimg.com/474x/b3/7d/78/b37d78aa8ef0a9fffd6b977734ead87c.jpg"
+      "image": "https://i.pinimg.com/236x/24/25/8b/24258bc3009be19f9dc7aa543549a6e4.jpg"
     },
     {
       "id": 18,
       "name_category": "Nature",
       "title": "Wallpaper_18",
-      "image": "https://i.pinimg.com/474x/9d/6d/a5/9d6da53bf797a05007380dc6b15496cf.jpg"
+      "image": "https://i.pinimg.com/236x/75/7e/56/757e5677deeb843f1283b9354d81644d.jpg"
     },
     {
       "id": 19,
       "name_category": "Nature",
       "title": "Wallpaper_19",
-      "image": "https://i.pinimg.com/236x/c4/17/a5/c417a5d16ae1461b20660bd5b03494d5.jpg"
+      "image": "https://i.pinimg.com/474x/ce/15/11/ce1511925b3541a66e9801fbdbd24a9b.jpg"
     },
     {
       "id": 20,
       "name_category": "Nature",
       "title": "Wallpaper_20",
-      "image": "https://i.pinimg.com/236x/97/d1/7f/97d17f9b7813eca59070fc0e794c588f.jpg"
+      "image": "https://i.pinimg.com/236x/10/10/4e/10104e196050deaa79b3ad3d1967b084.jpg"
     },
     {
       "id": 21,
       "name_category": "Nature",
       "title": "Wallpaper_21",
-      "image": "https://i.pinimg.com/236x/a6/53/3d/a6533d8ecc6de85b3fce7e6d4f9cc12d.jpg"
+      "image": "https://i.pinimg.com/236x/e1/13/9b/e1139b4cfa88b332cb7da76a45c60ecf.jpg"
     },
     {
       "id": 22,
       "name_category": "Nature",
       "title": "Wallpaper_22",
-      "image": "https://i.pinimg.com/236x/e0/35/ac/e035acc227e7c4b04efda5c06e008a8e.jpg"
+      "image": "https://i.pinimg.com/236x/0a/74/7e/0a747e847b3380b20a95382cc2c4d59e.jpg"
     },
     {
       "id": 23,
       "name_category": "Nature",
       "title": "Wallpaper_23",
-      "image": "https://i.pinimg.com/236x/2a/c0/cb/2ac0cb92647b3237e0623fe146c316b8.jpg"
+      "image": "https://i.pinimg.com/474x/95/2a/03/952a0399cc958b55e8ce547b3ae1f214.jpg"
     },
    {
       "id": 24,
       "name_category": "Nature",
       "title": "Wallpaper_24",
-      "image": "https://i.pinimg.com/236x/32/05/dd/3205dd2d6ed5f3c426f50a3cf4d99320.jpg"
+      "image": "https://i.pinimg.com/236x/d3/ef/34/d3ef349ff2a0fe0a007f28b65d1aaae6.jpg"
     }
   ]
 }
